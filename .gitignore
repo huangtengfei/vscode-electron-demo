@@ -1,0 +1,4 @@
+node_modules
+lib/build.json
+status.json
+vscode-plugin-seek-*
